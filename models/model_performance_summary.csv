@@ -1,0 +1,4 @@
+Model,CV_ROC_AUC_Mean,CV_ROC_AUC_Std,Test_ROC_AUC,Test_Accuracy,Test_F1_Score
+XGBoost,0.9520,0.0019,0.6314,0.8779,0.0907
+Random Forest,0.9112,0.0024,0.5601,0.8112,0.1393
+Logistic Regression,0.9323,0.0020,0.5702,0.8787,0.0818
